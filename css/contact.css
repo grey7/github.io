@@ -1,0 +1,20 @@
+
+#logo {
+	width: 150px;
+	height: 75px
+        border: 25px; 
+	padding: 25px;
+        margin: 25px;
+	background-color: #49352A; 
+}
+
+#footer {
+	margin-left: .4em;
+        padding-top: 5em;
+        clear: both;
+        text-align: center;
+        font-sixe: 50px;
+        font-weight: 900;
+}
+
+
