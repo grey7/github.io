@@ -2,20 +2,22 @@
         text-align: right;
 	float: right;
 	right: 6em;
-        top: 4em;
-	width: 1000px;
-	height: 300px
+        top: 6em;
+	width: 1600px;
+	height: 400px
         border: 25px; 
 	padding: 25px;
         margin: 25px;
 	background-color: #a78555;
+	
 }
 
 .navItem {
 	color: #49352A;
         background-color: ;
         padding: .5em .5em 0.5em;
-        font-size: 1em;
+        font-family:"Arial", Helvetica, sans-serif;
+	font-size: 1em;
         font-weight: bolder;
         text-decoration: none;
         margin: .2em;

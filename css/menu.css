@@ -1,11 +1,18 @@
 
+#bar{
+	background-color: #4c271a
+}
 #logo {
+	position: absolute;
+    	left: 0px;
+    	top: 0px;
+    	z-index: 2;
 	width: 150px;
 	height: 75px
         border: 25px; 
 	padding: 25px;
         margin: 25px;
-	background-color: #49352A; 
+	/*background-color: #49352A;*/ 
 }
 
 #footer {
